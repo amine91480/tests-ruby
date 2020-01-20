@@ -1,6 +1,8 @@
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
+SLACK --> 
+Amine91480
 ### Set up instructions
 
 1. Fork this repo
